@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Luciana Qu!</h1>
-<h3 align="center">Masters Student at the University of Michigan | Data-Driven Educational Insights | 2023 NSHSS Claes Nobel Educator of Distinction</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lquuu&label=Profile%20views&color=0e75b6&style=flat" alt="lquuu" /> </p>
 
 🔭 I’m currently working on **my Master's in Applied Data Science at the University of Michigan**
