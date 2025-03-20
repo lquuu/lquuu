@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **my Master's in Applied Data Science at the University of Michigan**
 
+- 🌱 I'm currently on track for learning more **about MySQL and PostgreSQL**
+
 - 📫 How to reach me **luciana.s.qu@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19CNKMRS9V1OeiaF4-vaMJxXbPsfgeCsr/view?usp=sharing](https://drive.google.com/file/d/19CNKMRS9V1OeiaF4-vaMJxXbPsfgeCsr/view?usp=sharing)
