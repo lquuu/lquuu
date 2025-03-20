@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lquuu&label=Profile%20views&color=0e75b6&style=flat" alt="lquuu" /> </p>
 
-- 🔭 I’m currently working on **my Master's in Applied Data Science at the University of Michigan**
+🔭 I’m currently working on **my Master's in Applied Data Science at the University of Michigan**
 
-- 🌱 I'm currently on track for learning more **about MySQL and PostgreSQL**
+🌱 I'm currently on track for learning more **about MySQL and PostgreSQL**
 
-- 📫 How to reach me **luciana.s.qu@gmail.com**
+📫 How to reach me **luciana.s.qu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19CNKMRS9V1OeiaF4-vaMJxXbPsfgeCsr/view?usp=sharing](https://drive.google.com/file/d/19CNKMRS9V1OeiaF4-vaMJxXbPsfgeCsr/view?usp=sharing)
+📄 Know about my experiences [https://drive.google.com/file/d/19CNKMRS9V1OeiaF4-vaMJxXbPsfgeCsr/view?usp=sharing](https://drive.google.com/file/d/19CNKMRS9V1OeiaF4-vaMJxXbPsfgeCsr/view?usp=sharing)
 
-- ⚡ Fun fact **I earned a Superior Rating at the National Guild Auditions for piano!**
+⚡ Fun fact **I earned a Superior Rating at the National Guild Auditions for piano!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
