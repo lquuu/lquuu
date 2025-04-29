@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on **my Master's in Applied Data Science at the University of Michigan**
 
-🌱 I'm currently on track for learning more **about MySQL and PostgreSQL**
+🌱 I'm currently on track to graduate by December 2026.
 
 📫 How to reach me **luciana.s.qu@gmail.com**
 
