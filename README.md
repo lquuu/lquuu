@@ -8,7 +8,7 @@
 
 📄 Know about my experiences [https://drive.google.com/file/d/19CNKMRS9V1OeiaF4-vaMJxXbPsfgeCsr/view?usp=sharing](https://drive.google.com/file/d/19CNKMRS9V1OeiaF4-vaMJxXbPsfgeCsr/view?usp=sharing)
 
-⚡ Fun fact **I earned a Superior Rating at the National Guild Auditions for piano! I played La Campanella, by Liszt. **
+⚡ Fun fact **I earned a Superior Rating at the National Guild Auditions for piano! I played La Campanella, by Liszt.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
